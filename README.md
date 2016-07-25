@@ -1,3 +1,3 @@
 # NotebooksNLP
 
-Jupyter Worksheets for the course **SNLP, Autumn 2016 **
+Jupyter Worksheets for the course ** SNLP, Autumn 2016 **
